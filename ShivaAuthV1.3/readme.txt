@@ -1,0 +1,1 @@
+La documentation sera présente dans la version 1.3 finale. Merci de votre compréhension.

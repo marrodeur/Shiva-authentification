@@ -26,4 +26,4 @@ J'essayerais de mettre un peux de mes connaissances, même si ca ne vaut pas les
 
 L'auteur de ce script est : Pascal Viney
 
-Je n'ai rien modifier dans le script au niveau des commentaires, vous retrouverez tout ce qu'il a écrit dans le script d'origine.
+Je n'ai rien modifié dans le script au niveau des commentaires, vous retrouverez tout ce qu'il a écrit dans le script d'origine.
